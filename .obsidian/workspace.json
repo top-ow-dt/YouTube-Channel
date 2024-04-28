@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/手把手系列/手把手 K8S中，部署 讀寫分離StarRocks集群/手把手 K8S中，部署 讀寫分離StarRocks集群.md",
+                "file": "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/手把手 K8S中，部署 讀寫分離StarRocks集群.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/手把手系列/手把手 K8S中，部署 讀寫分離StarRocks集群/手把手 K8S中，部署 讀寫分離StarRocks集群.md",
+                "file": "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/手把手 K8S中，部署 讀寫分離StarRocks集群.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/手把手系列/手把手 K8S中，部署 讀寫分離StarRocks集群/手把手 K8S中，部署 讀寫分離StarRocks集群.md",
+                "file": "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/手把手 K8S中，部署 讀寫分離StarRocks集群.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/手把手系列/手把手 K8S中，部署 讀寫分離StarRocks集群/手把手 K8S中，部署 讀寫分離StarRocks集群.md"
+                "file": "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/手把手 K8S中，部署 讀寫分離StarRocks集群.md"
               }
             }
           },
@@ -182,12 +182,12 @@
   },
   "active": "30cc1b305110b07e",
   "lastOpenFiles": [
-    "Kubernetes/手把手系列/手把手 K8S中，部署 讀寫分離StarRocks集群/手把手 K8S中，部署 讀寫分離StarRocks集群.md",
-    "未命名.md",
-    "Kubernetes/手把手系列/手把手 K8S中，部署 讀寫分離StarRocks集群",
-    "Kubernetes/手把手系列",
-    "Kubernetes",
     "README.md",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/手把手 K8S中，部署 讀寫分離StarRocks集群.md",
+    "未命名.md",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群",
+    "Kubernetes/Hand-in-Hand Series",
+    "Kubernetes",
     "手把手 部署 StarRocks.md",
     "Youtube-Channel",
     "YouTube-Channel",
