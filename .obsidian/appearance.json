@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "bullet-point-relationship-lines",
+    "clutter-free-formatting",
+    "clutter-free-headings",
+    "enlarge-image-on-hover",
+    "theme-change"
+  ]
+}

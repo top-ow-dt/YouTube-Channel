@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "foldIndent": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./media"
+}
