@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8fb5684105e57f59",
@@ -182,8 +183,20 @@
   },
   "active": "30cc1b305110b07e",
   "lastOpenFiles": [
-    "README.md",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/media/Pasted-image-20240501213506.png",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/media/Pasted-image-20240501213356.png",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/media/Pasted-image-20240501213327.png",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/media/Pasted-image-20240501213212.png",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/media/Pasted-image-20240501212926.png",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/media/Pasted-image-20240501212849.png",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/media/Pasted-image-20240501212609.png",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/media/Pasted-image-20240501212525.png",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/media/Pasted-image-20240501212456.png",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/media/Pasted-image-20240501201032.png",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/media/Pasted-image-20240501200953.png",
     "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/手把手 K8S中，部署 讀寫分離StarRocks集群.md",
+    "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群/media",
+    "README.md",
     "未命名.md",
     "Kubernetes/Hand-in-Hand Series/手把手 K8S中，部署 讀寫分離StarRocks集群",
     "Kubernetes/Hand-in-Hand Series",
